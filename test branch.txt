@@ -1,1 +1,3 @@
 Now I added another line into second branch
+
+I added this before fetch
